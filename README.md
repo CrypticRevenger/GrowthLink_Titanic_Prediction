@@ -93,6 +93,6 @@ The model uses features like age, gender, ticket class, fare, and engineered fea
     
 4. Run the Jupyter notebook
    ```bash
-    jupyter notebook notebooks/Titanic_Survival_Prediction.ipynb
+    jupyter notebook Notebook/Titanic_Survival_Prediction.ipynb
 
 
