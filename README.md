@@ -25,7 +25,7 @@ The model uses features like age, gender, ticket class, fare, and engineered fea
 
 ---
 
-## 🛠️ Preprocessing Steps
+## Preprocessing Steps
 
 ### 1. Missing Values Handling:
 - `Age`: Filled with median value
@@ -48,7 +48,7 @@ The model uses features like age, gender, ticket class, fare, and engineered fea
 
 ---
 
-## 🤖 Model Details
+## Model Details
 - **Algorithm**: `RandomForestClassifier`
 - **Hyperparameters**:
   - `n_estimators=100`
@@ -56,9 +56,9 @@ The model uses features like age, gender, ticket class, fare, and engineered fea
 
 ---
 
-## 📈 Evaluation
+## Evaluation
 
-**Test Accuracy**: ✅ **100%**
+**Test Accuracy**: **100%**
 
 ### 📋 Classification Report:
 
@@ -77,7 +77,7 @@ The model uses features like age, gender, ticket class, fare, and engineered fea
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository**:
    ```bash
