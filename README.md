@@ -111,7 +111,8 @@ The goal is to create a well-structured pipeline that handles missing values, en
    ```bash
     pip install -r requirements.txt
     
-4. Run the model
+4. Run the Jupyter notebook
    ```bash
-    python src/model.py
+    jupyter notebook notebooks/Titanic_Survival_Prediction.ipynb
+
 
